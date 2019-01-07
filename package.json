@@ -1,0 +1,17 @@
+{
+  "name": "typeorm-config",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "<deszynski@red-sky.pl>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.12",
+    "sqlite": "^3.0.0",
+    "ts-node": "^7.0.1",
+    "typeorm": "^0.2.11",
+    "typescript": "^3.2.2"
+  }
+}
