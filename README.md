@@ -2,7 +2,7 @@
 
 ```bash
 yarn install
-yarn run
+yarn start
 ```
 
 ## How to make it working

@@ -15,7 +15,7 @@
       "moduleResolution": "node",
       "lib": ["es6", "es2017"]
     },
-    "include": ["src/**/*"],
+    "include": ["./**/*"],
     "exclude": ["node_modules"]
   }
   
